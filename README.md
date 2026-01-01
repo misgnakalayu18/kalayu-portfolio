@@ -18,11 +18,11 @@ A professional portfolio website showcasing 7+ years of experience in software d
 - Clean and modern UI
 
 ## Live Demo
-The portfolio is hosted on GitHub Pages: [https://kalayu14.github.io/kalayu-portfolio](https://kalayu14.github.io/kalayu-portfolio)
+The portfolio is hosted on GitHub Pages: [https://misgnakalayu18.github.io/kalayu-portfolio](https://kalayu14.github.io/kalayu-portfolio)
 
 ## Local Development
 To run this portfolio locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kalayu14/kalayu-portfolio.git
+git clone https://github.com/misgnakalayu18/kalayu-portfolio.git
